@@ -1,0 +1,36 @@
+.timer-container{
+    border: 1px solid;
+    padding-bottom: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0 0.5rem 0.5rem 0.5rem;
+    background-color: #faf4f4;
+    
+}
+
+/* .timer-container{
+    border: 1px solid;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+} */
+
+.timer-title{
+    color: rgb(26, 28, 165);
+}
+
+.timer-display{
+    border: 1px solid;
+    border-radius: 0.5rem;
+    text-align: right;
+    font-weight: bold;
+    padding: 0.25rem 0.5rem;
+    font-size: 1.5rem;
+    width: 15rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: space-between;
+}
+

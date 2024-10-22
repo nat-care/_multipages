@@ -1,0 +1,22 @@
+.todo-container{
+    border: 1px lightgray;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin: auto;
+    box-shadow: 0 0 0.25rem gray;
+    text-align: center;
+}
+
+.todo-filter-control{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+.todo-button-spaceing{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
